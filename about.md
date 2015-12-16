@@ -1,10 +1,9 @@
-﻿---
+---
 layout: page
 
 title: "About"
 
-description: "一个在读大学的小学生 
-"
+description: "一个在读大学的小学生 "
 header-img: "img/green.jpg"
 ---
 
